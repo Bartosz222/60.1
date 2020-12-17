@@ -1,0 +1,2 @@
+Ilosc Liczb: 12
+Dwie ostatnie to: 633,540
